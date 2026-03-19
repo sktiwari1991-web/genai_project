@@ -1,0 +1,17 @@
+# Langchain Core
+Langchain
+Langchain-Core
+langchain-community
+langchain-openai
+duckduckgo-search
+faiss-cpu
+tiktoken
+
+# OpenAI integration
+
+Langchain-OpenAI
+OpenAI
+
+# Environment Variable Management
+
+python-dotenv
